@@ -1,0 +1,11 @@
+{
+  "name": "gulpSlush",
+  "version": "1.0.0",
+  "description": "gulp and slush build prototype",
+  "main": "index.js",
+  "author": "jstringer@imodules.com",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0"
+  }
+}
