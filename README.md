@@ -1,2 +1,2 @@
 # tcTest
-tc testing repo
+tc testing repo tester
