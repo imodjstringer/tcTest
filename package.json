@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "gulp and slush build prototype",
   "main": "index.js",
+  "license": "JSON",
   "author": "jstringer@imodules.com",
   "devDependencies": {
     "gulp": "^3.9.0",
