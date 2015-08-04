@@ -4,6 +4,10 @@
   "description": "gulp and slush build prototype",
   "main": "index.js",
   "license": "JSON",
+  "repository" : { 
+ 	"type" : "git",
+ 	"url" : "https://github.com/imodjstringer/tcTest.git"
+  },
   "author": "jstringer@imodules.com",
   "devDependencies": {
     "gulp": "^3.9.0",
